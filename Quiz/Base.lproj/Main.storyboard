@@ -29,7 +29,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mWC-1Q-Xql">
-                                <rect key="frame" x="133" y="450" width="127" height="35"/>
+                                <rect key="frame" x="133" y="359" width="127" height="35"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="gray" title="Show Answer"/>
                                 <connections>
@@ -54,7 +54,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="mWC-1Q-Xql" firstAttribute="top" secondItem="3mt-RH-JnD" secondAttribute="bottom" constant="111" id="5Gx-57-2RR"/>
+                            <constraint firstItem="mWC-1Q-Xql" firstAttribute="top" secondItem="3mt-RH-JnD" secondAttribute="bottom" constant="20" id="5Gx-57-2RR"/>
                             <constraint firstItem="mWC-1Q-Xql" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="6hC-7I-kxp"/>
                             <constraint firstItem="ZXG-Fy-mVe" firstAttribute="top" secondItem="JC9-J0-ery" secondAttribute="bottom" constant="58" id="8SE-tA-p4r"/>
                             <constraint firstItem="3mt-RH-JnD" firstAttribute="top" secondItem="ZXG-Fy-mVe" secondAttribute="bottom" constant="90" id="CfL-ys-DTK"/>
